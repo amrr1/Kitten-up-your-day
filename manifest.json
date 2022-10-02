@@ -1,0 +1,11 @@
+{
+    "name": "Random Twitter Cat Grabber", 
+    "version":  "1.0.0",
+    "description": "Twitter has the cutest cats",
+    "manifest_version": 3, 
+    "author": "Amr Ahmed", 
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "A cat to brighten up your day"
+    }
+}

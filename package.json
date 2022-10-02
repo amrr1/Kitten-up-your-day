@@ -1,0 +1,25 @@
+{
+  "name": "kitten-up-your-day",
+  "version": "1.0.0",
+  "description": "Generates a random cat image to brighten up your day :3",
+  "main": "script.js",
+  "scripts": {
+    "test": "./script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrr1/Kitten-up-your-day.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Amr Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrr1/Kitten-up-your-day/issues"
+  },
+  "homepage": "https://github.com/amrr1/Kitten-up-your-day#readme",
+  "dependencies": {
+    "thecatapi": "^1.0.1"
+  }
+}
